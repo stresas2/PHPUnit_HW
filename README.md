@@ -1,3 +1,7 @@
 # PHPUnit Home Work
 
-Start test on Windows: php vendor/phpunit/phpunit/phpunit tests/
+Start tests on Windows CMS: 
+
+```
+php vendor/phpunit/phpunit/phpunit tests/
+```
